@@ -35,3 +35,7 @@ We have used Google Colab as our IDE.
 2. Run all the cells
 
 Once all the cells have finished execution, under each models section ROC curve and other evaluation metrics are printed.
+
+### Project Report and Presentation
+The project report "Driver_Insurance_Claim_Prediction_Project_Report" is also present along with this repository. In addition to this, the project was presented in front of Dr. Ye Yuzhen and fellow peers and the presentation can be found in this repository as well under the title "DM_Project_ppt".
+
