@@ -1,4 +1,3 @@
-# -dikshaDriver-Insurance-Claims-Prediction
 # Driver Insurance Claims Prediction
 
 ## About the project :
